@@ -1,6 +1,6 @@
 # MyPythonProject
 ## Hello! My name is 李承晏,and this repository holds my programming projects done during the period of stanCode SC001 course.
-Watch my *[practical operation videos!]((https://youtu.be/fErKr4rLYdg))*\
+Watch my *[practical operation videos!](https://youtu.be/fErKr4rLYdg)*\
 1-[StepUp](https://github.com/Daniel0v0219/MyPythonProject/blob/main/MyProject/1.StepUp.py)\
 2-[PotholeFilling](https://github.com/Daniel0v0219/MyPythonProject/blob/main/MyProject/2.PotholeFilling.py)\
 3-[MoveToEnd](https://github.com/Daniel0v0219/MyPythonProject/blob/main/MyProject/3.MoveToTheEnd.py)\
